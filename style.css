@@ -1,0 +1,247 @@
+.first-heading{
+	text-align: center;
+	text-shadow: 2px 2px skyblue;
+	margin-top: 30px;
+	font-size: 400%;
+
+}	
+.second-heading{
+	text-align: center;
+	text-shadow: 2px 2px skyblue;
+	margin-top: 30px;
+	font-size: 250%;
+	
+}	
+
+.w-100{
+	margin-top: 80%;
+	margin-bottom: 80%;
+}
+
+.background{
+	background-color: lavender;
+}
+
+.margin {
+	margin: 0 30% 0 30%;
+	border-radius: 20px;
+	font-size: 130%;
+	font-style: italic;
+	margin-top: 10%;
+	margin-bottom: 10%;	
+}
+.giantbox{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+}
+.leftcolumn{
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+}
+.middlecolumn{
+	display: flex;
+	flex-direction: column;
+	flex: 2;
+}
+.rightcolumn{
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+
+}
+
+.picture{
+	margin-top: 75px;
+	margin-bottom: ;
+}
+
+.items{
+	align-items: center;
+	padding: 30px;
+	margin-bottom: 20%;
+}
+
+.items-services {
+	align-items: center;
+	padding: 30px;
+	margin-bottom: 125px;
+}
+
+.items-quote {
+	align-items: center;
+	padding: 30px;
+	margin-top: 100px;
+	margin-bottom: 350px;
+}
+
+.d-block {
+	display: block; 
+	margin: auto;
+	height: 300px;
+	width: 300px;
+}
+
+.where{
+	margin-bottom: 0px;
+	margin-top: 0px;
+	/*display: block;*/
+	/*margin: auto;*/
+	text-align: center;
+}
+
+.services {
+	padding-top:300px;
+	font-family: cursive;
+}
+
+.statistics {
+	padding-top:240px;
+	font-family: cursive;
+}
+
+.quote {
+	font-size:14pt;
+	font-family: cursive;
+}
+
+.mission {
+	font-family: cursive;
+}
+
+.you {
+	display: block; 
+	margin: auto;
+	padding-bottom: 170px; 
+	padding-top: ;
+}
+
+.you-heading{
+	padding-bottom: 100px;
+	padding-top: 300px;
+}
+
+.more {
+	padding-top:250px;
+}
+
+.items-statistics2 {
+	padding-top:px;
+	padding-bottom: 30px;
+	padding-right: 20px;
+
+}
+
+.heading {
+	text-align: center;
+	padding-bottom: 50px;
+	font-size:50px ;
+}
+
+.mental-health{
+	display: block;
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom:800px;
+	height:200px ;
+	width: 200px;
+	font-family: cursive;
+}
+
+.mental-pic{
+	height: 200px;
+	width: 200px;
+	font-family: cursive;
+}
+
+.yoga {
+	display: block;
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom:500px;
+	height:200px ;
+	width: 200px;
+	font-family: cursive;
+}
+
+.gun{
+	padding-left: 30px;
+	padding-top: 200px;
+	font-family: cursive;
+}
+
+.counseling{
+	padding-bottom: ;
+	font-family: cursive;
+
+}
+
+.christian {
+	padding-bottom:px ;
+	height: 300px;
+	width: 300px;
+	display: block;
+	margin: auto;
+	font-family: cursive;
+}
+
+.NA{
+	padding-bottom:650px ;
+	padding-top: px;
+	height: 300px;
+	width: 300px;
+	/*display: block;*/
+	/*margin: auto;*/
+	font-family: cursive;
+	margin-right: auto;
+
+}
+
+.education {
+	padding-top: 5px;
+	padding-bottom:720px;
+	height:200px ;
+	width: 200px;
+
+}
+
+.edu-pic {
+	height: 200px;
+	width: 200px;
+	font-family: cursive;
+
+}
+
+.profile-heading {
+	text-align: center;
+	padding-top: px;
+	padding-bottom: 50px;
+}
+
+.card-item {
+	padding: 30px;
+}
+
+.more-statistics{
+	padding-top:30px;
+	font-family: cursive;
+	margin-right: auto;
+
+}
+
+#color3{
+	color: blue;
+}
+
+#color4{
+	color: red;
+}
+
+#color2{
+	color: purple;
+}
+
+#color1{
+	color: green;
+}
